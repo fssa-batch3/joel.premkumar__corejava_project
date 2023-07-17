@@ -1,6 +1,6 @@
-package reptiles;
+package day04.misc.reptiles;
 
-import mammals.Hare;
+import day04.misc.mammals.Hare;
 
 public class Tortoise extends Hare {
 

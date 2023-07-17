@@ -1,4 +1,4 @@
-package mammals;
+package day04.misc.mammals;
 
 public class Hare {
 

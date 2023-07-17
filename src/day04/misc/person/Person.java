@@ -1,4 +1,4 @@
-package person;
+package day04.misc.person;
 
 abstract class Person {
 	protected int age;
