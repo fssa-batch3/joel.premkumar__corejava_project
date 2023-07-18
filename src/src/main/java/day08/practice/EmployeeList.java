@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class EmployeesList {
+public class EmployeeList {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int count = 0;
@@ -38,7 +38,7 @@ public class EmployeesList {
 			}
 			count++;
 		}
-		System.out.println(countMap.keySet());
+
 		for (String n : countMap.keySet()) {
 			System.out.println(n + " : " + countMap.get(n));
 		}
